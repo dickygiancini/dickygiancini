@@ -1,6 +1,6 @@
 ### Hi there, Here's my Stats! 👋
 
-![Dicky's github stats](https://github-readme-stats.vercel.app/api?username=dickygiancini&show_icons=true&theme=flag-india&count_private=true)
+![Dicky's github stats](https://github-readme-stats.vercel.app/api?username=dickygiancini&show_icons=true&theme=dracula&count_private=true)
 <!--
 **dickygiancini/dickygiancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
