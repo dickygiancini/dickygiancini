@@ -4,7 +4,7 @@
 
 ### My Coding Body Contains: ⚡
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dickygiancini)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/dickygiancini/dickygiancini/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!--END_SECTION:waka-->
 
