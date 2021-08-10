@@ -3,7 +3,8 @@
 ![Dicky's github stats](https://github-readme-stats.vercel.app/api?username=dickygiancini&show_icons=true&theme=dracula&count_private=true)
 
 ### My Coding Body Contains: ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=dickygiancini&layout=compact)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dickygiancini)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dickygiancini/dickygiancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
