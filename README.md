@@ -4,7 +4,7 @@
 
 ### My Coding Body Contains: ⚡
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dickygiancini)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@389ecfbc-6f70-4d83-9e2b-ba4405befb88/7b01ea4f-8f07-4cf3-a11c-c1b859b8e4fd.svg"></embed></figure>
 <!--END_SECTION:waka-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
