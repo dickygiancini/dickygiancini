@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hold up, i also play around on Lab!
-<a href="https://gitlab.com/dickygiancini">
+<a href="https://gitlab.com/dickygiancini" target="_blank">
 <img border="0" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-rgb.jpg" width="30">
 </a>
