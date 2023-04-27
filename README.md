@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hold up, i also play around on Lab!
+### I'm currently active on lab! (I hope i can return to github soon)
 <a href="https://gitlab.com/dickygiancini" target="_blank">
 <img border="0" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-rgb.jpg" width="30">
 </a>
