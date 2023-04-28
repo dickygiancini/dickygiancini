@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/dickygiancini" target="_blank">
 <img border="0" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-rgb.jpg" width="30">
 </a>
-
-- 🔭 I’m currently working on PT ITPI Technology
